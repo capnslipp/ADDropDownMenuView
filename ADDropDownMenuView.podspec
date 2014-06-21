@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                     ADDropDownMenuView is an iOS navigation drop down style view.
                    DESC
-  s.homepage     = "https://github.com/Antondomashnev"
+  s.homepage     = "https://github.com/Antondomashnev/ADDropDownMenuView"
   s.author       = { 'Anton Domashnev' => 'antondomashnev@gmail.com' }
   s.source       = { :git => "https://github.com/Antondomashnev/ADDropDownMenuView.git", :tag => s.version.to_s}
   s.platform = :ios, '5.0'
